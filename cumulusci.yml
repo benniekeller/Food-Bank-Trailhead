@@ -3,6 +3,7 @@ project:
     name: Food-Bank-Trailhead
     package:
         name: Food-Bank-Trailhead
+        namespace: thekellersfoodp
         api_version: '55.0'
     git:
         default_branch: 'main'
